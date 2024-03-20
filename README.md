@@ -30,16 +30,19 @@
 
 <table align="left" >
 <tr border="none">
-  <td width="25%" align="center">
+    <td width="25%" align="center">
     <p align="center">
      <a href="https://github.com/cristobalgrau/aws-s3-notification-system-lab" title="Go to Source">
         <img align="center" width=100% src="./assets/S3-Notification-System-card.png" /></a>
       </p>
+    </td>
     <td width="25%" align="center">
     <p align="center">
      <a href="https://github.com/cristobalgrau/aws-serverless-rds-management-lab" title="Go to Source">
         <img align="center" width=100% src="./assets/Serverless-RDS-card.png" /></a>
       </p>
+    </td>
+</tr>
 </table>
 
 <br>
@@ -50,14 +53,17 @@
 
 <table align="left" >
 <tr border="none">
-  <td width="25%" align="center">
+    <td width="25%" align="center">
     <p align="center">
      <a href="https://github.com/cristobalgrau/terraform-beginner-bootcamp-2023" title="Go to Source">
         <img align="center" width=100% src="./assets/Terraform-Beginner-Bootcamp-card.png" /></a>
       </p>
+    </td>
     <td width="25%" align="center">
     <p align="center">
      <a href="https://github.com/cristobalgrau/aws-cloud-resume-challenge" title="Go to Source">
         <img align="center" width=100% src="./assets/Cloud-Resume-card.png" /></a>
       </p>
+    </td>
+</tr>
 </table>
