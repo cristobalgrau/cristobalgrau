@@ -6,20 +6,20 @@
 
 - Enthusiastic cloud engineering learner with a background in Telecommunications, eager to transition into Cloud Roles.
 - Actively engaged in creating labs and small projects utilizing AWS services and Terraform.
-- Currently immersed in studying AWS Machine Learning through SageMaker.
-- Continuously honing Python skills to enhance proficiency and versatility in cloud development.
+- Currently immersed in studying AI and Machine Learning.
+- Continuously honing Python skills to enhance proficiency and versatility in software development.
 
 <br>
 
 ### Skills:
 
 <p align="center">
-	<img src="./icons/Terraform-Dark.svg" width="48">
-	<img src="./icons/AWS-Dark.svg" width="48">
 	<img src="./icons/Python-Dark.svg" width="48">
+    	<img src="./icons/Langchain.png" width="48">
+	<img src="./icons/AWS-Dark.svg" width="48">
+	<img src="./icons/Terraform-Dark.svg" width="48">
 	<img src="./icons/Bash-Dark.svg" width="48">
 	<img src="./icons/Github-Dark.svg" width="48">
-	<img src="./icons/GithubActions-Dark.svg" width="48">
 </p>
 
 <br>
@@ -67,6 +67,12 @@
     <p align="center">
      <a href="https://github.com/cristobalgrau/aws-cloud-resume-challenge" title="Go to Source">
         <img align="center" width=100% src="./assets/Cloud-Resume-card.png" /></a>
+      </p>
+    </td>
+    <td width="25%" align="center">
+    <p align="center">
+     <a href="https://github.com/cristobalgrau/automation-fill-report-pdf-to-word" title="Go to Source">
+        <img align="center" width=100% src="./assets/project-card-pdf-to-word.png" /></a>
       </p>
     </td>
 </tr>
